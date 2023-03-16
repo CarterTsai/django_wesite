@@ -1,0 +1,8 @@
+# 虛擬環境
+venv/
+env/
+*.egg-info/
+
+# IDE 生成的文件
+.idea/
+.vscode/
